@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   xml:space="preserve"
+   width="107.9308"
+   height="37.176533"
+   viewBox="0 0 107.9308 37.176533"
+   sodipodi:docname="cloud.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs6"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 0,27.882 H 80.948 V 0 H 0 Z"
+         id="path14" /></clipPath></defs><sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0" /><g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="cloud"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,37.176533)"><g
+       id="g10"><g
+         id="g12"
+         clip-path="url(#clipPath16)"><g
+           id="g18"
+           transform="translate(0.6569,4.4884)"><path
+             d="M 0,0 C 0.182,0.232 0.394,0.44 0.626,0.611 1.674,1.38 3.013,1.594 4.294,1.814 6.9,2.26 9.637,2.893 11.532,4.737 c 1.925,1.873 2.617,4.628 3.575,7.137 1.543,4.04 4.104,7.862 7.873,9.981 3.77,2.119 8.874,2.176 12.172,-0.621 3.853,-3.268 4.17,-8.963 5.871,-13.72 0.295,-0.825 0.958,-1.8 1.798,-1.549 0.392,0.118 0.655,0.483 0.849,0.844 0.781,1.454 0.945,3.217 1.935,4.537 2.119,2.824 6.854,1.953 9.263,-0.629 2.409,-2.581 3.274,-6.188 4.6,-9.46 0.459,-1.132 1.034,-2.3 2.068,-2.95 1.022,-0.644 2.304,-0.664 3.511,-0.64 2.739,0.053 5.477,0.229 8.201,0.526 3.198,0.349 4.351,-2.681 7.043,-2.681 H 19.777 C 14.104,-4.488 8.271,-4.876 2.641,-4.2 1.495,-4.062 0.205,-3.786 -0.384,-2.794 -0.9,-1.925 -0.636,-0.813 0,0"
+             style="fill:#cececf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" /></g></g></g></g></svg>
